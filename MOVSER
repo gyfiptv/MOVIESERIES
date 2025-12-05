@@ -5,6 +5,12 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+#EXTINF:-1,El Grinch ES (2018)
+http://archive.org/download/bohele_spindl-e_G/G.mp4
+
+#EXTINF:-1,The Grinch EN (2018)
+http://1tv41.icu:8080/movie/zqQ0Q2/591076/198326.mp4
+
 #EXTINF:-1,9/11: The Day the World Stood Still (2025)
 http://1tv41.icu:8080/movie/zqQ0Q2/591076/226185.mp4
 #EXTINF:-1,82nd.Golden.Globe.Awards.2025.720p.WEBRip.x264.AAC-[YTS.MX]
